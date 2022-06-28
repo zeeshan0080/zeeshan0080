@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshan0080
 - 👀 Mobile Application Development
-- 🌱 Flutter
+- 🌱 Flutter | Django
 - 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 zeeshanhaider95@outlook.com
 
