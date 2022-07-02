@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeeshan Haider
 - 👀 Mobile Application Development
 - 🌱 Flutter | Django
-- 💞️ I’m looking to collaborate on Mobile Application Development
+- 💞️ I’m looking to collaborate on Mobile Application Development~
 - 📫 zeeshanhaider95@outlook.com
 
 <!---
