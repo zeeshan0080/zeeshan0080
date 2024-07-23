@@ -38,3 +38,18 @@
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/zeeshan0080)
 [![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/zeeshan0080)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/zeeshan0080)
+
+<details>
+<p align="center">
+  <a href="https://github.com/zeeshan0080">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeshan0080&theme=transparent" />
+  </a>
+  <a href="https://github.com/zeeshan0080">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan0080&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/zeeshan0080">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan0080&theme=transparent" />
+  </a>
+</p>
+<table><tr><td valign="top" width="33%">
+</details>
