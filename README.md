@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@shenrontest?theme=asoul" />
+  <img src="https://count.getloli.com/get/@shenron?theme=asoul" />
 </p>
 
 <div align="center">
