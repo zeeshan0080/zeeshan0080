@@ -39,8 +39,6 @@
 [![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/zeeshan0080)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/zeeshan0080)
 
-<br><br>
-
 ### Insights
 
 <p align="center">
