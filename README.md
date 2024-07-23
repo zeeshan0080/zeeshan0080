@@ -39,7 +39,6 @@
 [![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/zeeshan0080)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/zeeshan0080)
 
-<details>
 <p align="center">
   <a href="https://github.com/zeeshan0080">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeshan0080&theme=transparent" />
@@ -51,5 +50,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan0080&theme=transparent" />
   </a>
 </p>
-<table><tr><td valign="top" width="33%">
-</details>
