@@ -7,7 +7,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the mobile or your local computer, just send me an <a href="mailto:zeeshanhaider95@outlook.com">E-Mail</a> to see how I can help you.</p><br />
+    <p align="center">I build stuff for the mobile and web, just send me an <a href="mailto:zeeshanhaider95@outlook.com">E-Mail</a> to see how I can help you.</p><br />
 </p>
 
 <p align="center">
@@ -45,10 +45,7 @@
   <a href="https://github.com/zeeshan0080">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeshan0080&theme=transparent" />
   </a>
-  <a href="https://github.com/zeeshan0080">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=zeeshan0080&hide_border=true&card_width=338" />
-  </a>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  <a href="https://github.com/zeeshan0080"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=zeeshan0080" alt="GitHub Streak" /></a>
   <a href="https://github.com/zeeshan0080">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan0080&theme=transparent" />
   </a>
