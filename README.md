@@ -48,6 +48,7 @@
   <a href="https://github.com/zeeshan0080">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=zeeshan0080&hide_border=true&card_width=338" />
   </a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <a href="https://github.com/zeeshan0080">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan0080&theme=transparent" />
   </a>
