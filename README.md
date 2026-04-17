@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Zeeshan Haider, I'm a mobile application & Backend developer and currently learning Data Sciences and ML.<br>
+        I'm Zeeshan Haider, I'm a Mobile Application & Backend developer and currently learning Data Sciences and ML.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
