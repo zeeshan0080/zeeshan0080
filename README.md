@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Zeeshan Haider, I'm a mobile application developer and currently learning Data Sciences and ML.<br>
+        I'm Zeeshan Haider, I'm a mobile application & Backend developer and currently learning Data Sciences and ML.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@shenron?theme=asoul" />
+  <img src="https://count.getloli.com/get/@shenron?theme=gelbooru-h" />
 </p>
 
 <div align="center">
@@ -23,8 +23,9 @@
 ### Languages
 
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/zeeshan0080)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/zeeshan0080)
+[![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=C%23)](https://github.com/zeeshan0080)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/zeeshan0080)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/zeeshan0080)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/zeeshan0080)
 
 ### ML/DL
@@ -36,6 +37,7 @@
 ### Technologies & Frameworks
 
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/zeeshan0080)
+[![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.NET)](https://github.com/zeeshan0080)
 [![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/zeeshan0080)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/zeeshan0080)
 
