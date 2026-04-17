@@ -23,7 +23,7 @@
 ### Languages
 
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/zeeshan0080)
-[![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=C%23)](https://github.com/zeeshan0080)
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23)](https://github.com/zeeshan0080)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/zeeshan0080)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/zeeshan0080)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/zeeshan0080)
